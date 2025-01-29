@@ -21,4 +21,9 @@ This file contains the Physical Database Model for the Kiwi Music Database proje
 
 3. Analysis.sql
 
-This file contains a collection of SQL queries used to analyze data within the Kiwi Music Database. The queries provide insights into user activity, playlists, producers, songs, events, and ticket prices. 
+This file contains a collection of SQL queries used to analyze data within the Kiwi Music Database. The queries provide insights into user activity, playlists, producers, songs, events, and ticket prices.
+
+### Technologies Used 
+
+MySQL
+MongoDB (NoSQL)
